@@ -9,7 +9,7 @@
 	<title>
 	Các phản hồi luận về: Hello world!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/uncategorized/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://phutran1601.github.io/mywp/uncategorized/hello-world/</link>
+	<link>https://https://phutran1601.github.io/mywp/uncategorized/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Sun, 30 May 2021 06:22:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bởi: Tran Phu		</title>
-		<link>http://https://phutran1601.github.io/mywp/uncategorized/hello-world/#comment-2</link>
+		<link>https://https://phutran1601.github.io/mywp/uncategorized/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[Tran Phu]]></dc:creator>
 		<pubDate>Sun, 30 May 2021 06:22:56 +0000</pubDate>
-		<guid isPermaLink="false">http://https://phutran1601.github.io/mywp/?p=1#comment-2</guid>
+		<guid isPermaLink="false">https://https://phutran1601.github.io/mywp/?p=1#comment-2</guid>
 
 					<description><![CDATA[hgbksad]]></description>
 			<content:encoded><![CDATA[<p>hgbksad</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Bởi: A WordPress Commenter		</title>
-		<link>http://https://phutran1601.github.io/mywp/uncategorized/hello-world/#comment-1</link>
+		<link>https://https://phutran1601.github.io/mywp/uncategorized/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 30 May 2021 05:56:28 +0000</pubDate>
-		<guid isPermaLink="false">http://https://phutran1601.github.io/mywp/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://https://phutran1601.github.io/mywp/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
